@@ -6,7 +6,7 @@ Project ini menampilkan proses pencarian secara visual, termasuk node yang sedan
 
 ## 🚀 Live Demo
 
-🔗 [Coba Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/patchfiner/patchfinder.html)
+🔗 [Coba Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/patchfiner/Index.html)
 
 Tidak perlu instalasi. Buka link di atas untuk langsung mencoba visualizer di browser.
 
@@ -99,13 +99,13 @@ Tidak membutuhkan framework maupun dependency eksternal.
 ### Clone repository
 
 ```bash
-git clone https://github.com/bahrizalmulyawan/patchfiner.git
+git clone https://github.com/bahrizalmulyawan/patchfinder-visualizer.git
 ```
 
 ### Masuk ke directory
 
 ```bash
-cd patchfiner
+cd patchfinder-visualizer
 ```
 
 ### Jalankan aplikasi
@@ -113,7 +113,7 @@ cd patchfiner
 Buka file berikut menggunakan browser modern:
 
 ```text
-patchfinder.html
+index.html
 ```
 
 Atau langsung gunakan [Live Demo](https://bahrizalmulyawan.github.io/patchfiner/patchfinder.html).
@@ -123,8 +123,9 @@ Atau langsung gunakan [Live Demo](https://bahrizalmulyawan.github.io/patchfiner/
 Project dibuat sebagai single-file web application yang berisi HTML, CSS, dan JavaScript.
 
 ```text
-patchfiner/
-└── patchfinder.html
+patchfinderv1/
+patchfinderv2
+└── index.html
 ```
 
 ## 🎓 Educational Purpose
@@ -186,7 +187,7 @@ Jika menggunakan MIT License, tambahkan file `LICENSE` pada root repository.
 **Bahrizal Mulyawan**
 
 - GitHub: [@bahrizalmulyawan](https://github.com/bahrizalmulyawan)
-- Live Demo: [Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/patchfiner/patchfinder.html)
+- Live Demo: [Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/Patchfiner/Index.html)
 
 ---
 
