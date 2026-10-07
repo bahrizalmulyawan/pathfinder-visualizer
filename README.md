@@ -6,7 +6,7 @@ Project ini menampilkan proses pencarian secara visual, termasuk node yang sedan
 
 🚀 Live Demo
 
-🔗 "Coba Maze Pathfinding Visualizer" (https://bahrizalmulyawan.github.io/patchfiner/patchfinder.html)
+🔗 "Coba Maze Pathfinding Visualizer" ("https://bahrizalmulyawan.github.io/patchfiner/Index.html")
 
 «Tidak perlu instalasi. Buka link di atas untuk langsung mencoba visualizer di browser.»
 
