@@ -116,7 +116,7 @@ Buka file berikut menggunakan browser modern:
 index.html
 ```
 
-Atau langsung gunakan [Live Demo](https://bahrizalmulyawan.github.io/patchfiner/patchfinder.html).
+Atau langsung gunakan [Live Demo](https://bahrizalmulyawan.github.io/patchfiner/Index.html).
 
 ## 📁 Project Structure
 
@@ -187,7 +187,7 @@ Jika menggunakan MIT License, tambahkan file `LICENSE` pada root repository.
 **Bahrizal Mulyawan**
 
 - GitHub: [@bahrizalmulyawan](https://github.com/bahrizalmulyawan)
-- Live Demo: [Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/Patchfiner/Index.html)
+- Live Demo: [Maze Pathfinding Visualizer](https://bahrizalmulyawan.github.io/patchfiner/Index.html)
 
 ---
 
