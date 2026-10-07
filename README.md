@@ -48,13 +48,7 @@ Halaman demo utama menyediakan akses ke Patchfinder v1, Patchfinder v2, dan hala
 └── Readme github.md
 ```
 
-## 📖 Penjelasan
 
-Untuk dokumentasi konsep dan cara kerja Patchfinder v2:
-
-**[Buka Explanation](https://bahrizalmulyawan.github.io/patchfiner/Patchfinderv2/explanation.html)**
-
-Halaman tersebut juga tersedia melalui tombol **Explanation** pada aplikasi Patchfinder v2.
 
 ## ▶️ Menjalankan Secara Lokal
 
